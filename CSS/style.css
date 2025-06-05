@@ -1,0 +1,33 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* h3{
+    color: yellow;
+} */
+
+h1,h3{
+    color: #b92b27;
+}
+
+#login{
+    background-color: antiquewhite;
+}
+
+.upvote{
+    background-color: palevioletred;
+    color: aliceblue;
+}
+
+#myid p{
+    background-color: #b92b27;
+    color: aquamarine;
+}
+
+p + h3{
+    text-decoration: underline;
+}
+
+.upvote + button{
+    background-color: cadetblue;
+}

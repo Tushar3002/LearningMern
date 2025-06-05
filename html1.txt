@@ -1,0 +1,38 @@
+html entities :
+
+&lt;   lesser than '<'
+&gt;
+&quot; quotation
+&amp;  &
+&nbsp; for space
+
+
+
+emmet :
+
+main>p>ul>li   
+<main>
+    <p>
+		<ul>
+			<li></li>
+        </ul>
+    </p>
+</main>
+		
+p+div+h1		
+		<p></p>
+        <div></div>
+        <h1></h1>
+		
+		
+ul>li*5
+
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>		
+			
+
